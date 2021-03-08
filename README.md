@@ -4,4 +4,4 @@ Final project for CS 3110: Functional Programming and Data Structures, authored 
 
 Implementation from scratch of Texas Hold'em Poker (for one player, with CPU's) in OCaml
 
-(Note: The implementation is functioning but by no means optimized/final; in particular, the betting logic for the CPU's needs refinement.)
+(Note: The implementation is fully functioning but by no means optimized/final; in particular, the betting logic for the CPU's needs refinement.)
