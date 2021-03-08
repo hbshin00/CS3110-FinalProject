@@ -1,0 +1,4 @@
+#require "ounit2";;
+#directory "_build";;
+#load "cards.cmo";;
+#load "state.cmo";;

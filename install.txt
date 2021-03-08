@@ -1,0 +1,3 @@
+No external installations required.
+
+To start the game, run command "make build" then "make play".
