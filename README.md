@@ -1,4 +1,4 @@
-# CS3110_FinalProject
+# Texas Hold'em Poker
 
 Final project for CS 3110: Functional Programming and Data Structures, authored by Hali Shin, Abhyuday Atal, Dhruv Girgenti
 
